@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Notebook",
+    "price": 500,
+    "thumbnail": "url",
+    "id": "41be500a-b488-4bc1-a78d-09d9e89168dc"
+  },
+  {
+    "title": "Tablet",
+    "price": 300,
+    "thumbnail": "url",
+    "id": "264b898f-261e-44e0-b819-e4085ee91a32"
+  },
+  {
+    "title": "Celular",
+    "price": 150,
+    "thumbnail": "url",
+    "id": "06209bcc-e350-43dd-9dcf-25287cb45788"
+  }
+]
